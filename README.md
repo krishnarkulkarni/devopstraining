@@ -1,1 +1,2 @@
 # devopstraining
+Update of README
